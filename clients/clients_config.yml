@@ -1,0 +1,13 @@
+clients:
+- name: sncf
+  compilation : Tru
+  url_export_authoritas : "https://docs.google.com/spreadsheets/d/1gHA5wu66-UtoxStoy4-N2Oiy1mXI4k1OfNm1lO-pUJ0/edit?gid=1413437287#gid=1413437287"
+  url_export_serpapi : "https://docs.google.com/spreadsheets/d/1gHA5wu66-UtoxStoy4-N2Oiy1mXI4k1OfNm1lO-pUJ0/edit?gid=0#gid=0"
+  url_scrap: "https://docs.google.com/spreadsheets/d/1hNJy2gA2epDAOgFAODd0RTrn0DDln2KkDR3tLa4IIDI/edit?gid=1920637668#gid=1920637668"
+
+- name: sncf
+  compilation : True
+  url_export_authoritas : "https://docs.google.com/spreadsheets/d/1z73psp8YosM1KwwBd65jbFwXoq9Ki-zIPnI_eVkb7T0/edit?gid=0#gid=0"
+  url_export_serpapi : "https://docs.google.com/spreadsheets/d/1z73psp8YosM1KwwBd65jbFwXoq9Ki-zIPnI_eVkb7T0/edit?gid=2045871597#gid=2045871597"
+  url_scrap: "https://docs.google.com/spreadsheets/d/1z73psp8YosM1KwwBd65jbFwXoq9Ki-zIPnI_eVkb7T0/edit?gid=594829807#gid=594829807"
+  url_final: "https://docs.google.com/spreadsheets/d/1z73psp8YosM1KwwBd65jbFwXoq9Ki-zIPnI_eVkb7T0/edit?gid=1086639884#gid=1086639884"

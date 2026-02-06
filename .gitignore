@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+notebooks/
+credentials/
+images/
+.vscode/
+chromedriver/

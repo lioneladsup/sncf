@@ -1,0 +1,16 @@
+{
+    "keywords": ["paris vienne train de nuit", "rotterdam", "marche de noel belgique", "break room", "stutgart"], 
+    "urls": [
+        "https://www.sncf-connect.com/article/prenez-le-train-de-nuit-pour-l-autriche-et-reveillez-vous-a-vienne",
+        "https://www.sncf-connect.com/article/top-10-les-incontournables-de-rotterdam-106327",
+        "https://www.sncf-connect.com/article/les-plus-beaux-marches-de-noel-de-belgique-68836",
+        "https://www.sncf-connect.com/article/les-endroits-ou-tout-casser-pour-decompresser",
+        "https://www.sncf-connect.com/article/visites-stuttgart-69081"
+    ],
+    "client":["sncf","sncf","sncf","sncf","sncf"],
+    "scraping_method": ["serpapi"],
+    "search_engine": ["google"],
+    "language": ["fr"],
+    "location": ["fr"],
+    "max_results": 5
+}
